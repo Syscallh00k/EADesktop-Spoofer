@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EASpoofer", "EASpoofer\EASpoofer.vcxproj", "{9DD7A79C-5C97-44A0-8553-88649185646D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Debug|x64.ActiveCfg = Debug|x64
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Debug|x64.Build.0 = Debug|x64
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Debug|x86.Build.0 = Debug|Win32
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Release|x64.ActiveCfg = Release|x64
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Release|x64.Build.0 = Release|x64
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Release|x86.ActiveCfg = Release|Win32
+		{9DD7A79C-5C97-44A0-8553-88649185646D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C6CF37-E15F-44D0-89A3-69E81512E6E3}
+	EndGlobalSection
+EndGlobal
